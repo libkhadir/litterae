@@ -9,6 +9,8 @@ jdk 8 minimum
 - indicate secret phrase that help to encode/decode message `app.secret`
 
 ## demo
+![demo](./demo/demo.PNG)
+
 ```
 Server started  at:  ServerSocket[addr=localhost/127.0.0.1,localport=6666]
 Waiting for a  connection...
